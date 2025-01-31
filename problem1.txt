@@ -1,1 +1,0 @@
-git_config_name,emailを記載しなたっかことに加えcommit出来ていなかったため、上手くpush出来なかった。
